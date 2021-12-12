@@ -4,3 +4,6 @@
 [submodule "cubical"]
 	path = cubical
 	url = https://github.com/agda/cubical
+[submodule "agda-categories"]
+	path = agda-categories
+	url = https://github.com/agda/agda-categories
