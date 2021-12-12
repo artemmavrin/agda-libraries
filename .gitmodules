@@ -1,3 +1,6 @@
 [submodule "agda-stdlib"]
 	path = agda-stdlib
 	url = https://github.com/agda/agda-stdlib
+[submodule "cubical"]
+	path = cubical
+	url = https://github.com/agda/cubical
